@@ -94,11 +94,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-# Declare license on posts
-post_copyright:
-  enable: true
-  license: CC BY-SA 4.0
-  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+
 
 # Friends
 friends: [
